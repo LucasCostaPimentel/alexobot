@@ -32,9 +32,9 @@ export class BotControle{
     async criarArquivo(){
         const bot = {
             iniciado: 0,
-            nome_bot: "Ultron",
-            nome_adm: "Thiago",
-            nome_pack: "Ultron Stickers",
+            nome_bot: "Alexo",
+            nome_adm: "Lucas Dolmayan",
+            nome_pack: "Alexo Stickers",
             prefixo: "!",
             cmds_executados:0,
             autosticker: false,
